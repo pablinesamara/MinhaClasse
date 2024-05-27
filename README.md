@@ -15,6 +15,7 @@ Retornará conforme a configuração do algoritmo
 Ola, me chamo Pabline Samara
 Tenho 34 anos
 Minha altura é 1.62cm
+<img src="https://github.com/pablinesamara/MinhaClasse/blob/main/Captura%20de%20tela%202024-05-27%20132008.png">
 
 
 ## Getting Started
